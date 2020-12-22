@@ -10,6 +10,11 @@ big question was how humans would program these computers.
 And the quest was on until 1970s when a very remarkble
 programming language was invented: the C language.
 
+After the success, the great potential was unleashed
+and we are now seeing the things a programmable computer
+can do: the era of information, real-time data,
+artificial intelligence, almost realistic 3D games. 
+
 ## Input / Output
 
 ## Conditionals

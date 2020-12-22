@@ -12,8 +12,8 @@ programming language was invented: the C language.
 
 After the success, the great potential was unleashed
 and we are now seeing the things a programmable computer
-can do: the era of information, real-time data,
-artificial intelligence, almost realistic 3D games. 
+can do: the era of information, real-time data, 
+almost realistic 3D games, artificial intelligence, etc.
 
 Learning computer science now is a very sophitiscated
 one unlike it was in the past: there are too many 

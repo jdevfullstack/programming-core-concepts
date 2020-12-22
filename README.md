@@ -28,6 +28,8 @@ all computer programming languages have in common.
 
 ## Input / Output
 
+## Variables & Data Types
+
 ## Conditionals
 
 ## Loops

@@ -31,6 +31,11 @@ to learn first is the understanding how computer works
 and the fundamentals of computer programming that
 all computer programming languages have in common.
 
+And since almost every programming language nowadays
+inherit directly and indirectly concepts from 
+the C language, we'll be using it to demonstrate
+the core concepts of programming.
+
 ## Input / Output
 
 ## Variables & Data Types

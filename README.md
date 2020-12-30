@@ -66,7 +66,33 @@ Imagine any drawing can be accomplished just
 by simply using a dot-and-no-dot pattern!
 It's the same thing for the computer.
 
+### Hello World Program
 
+```
+#include <stdio.h> 
+
+int main()
+{
+
+printf("Hello World!\n");
+printf("Life is a blessing!\n");
+
+return 0;
+
+}
+```
+
+In this small program, the `#include`
+tells the computer to include a certain
+source which is needed because
+it contains the predefined command `printf`.
+`printf` simply tells the computer
+to display the text provided by the programmer.
+
+As simple as that, you have now the complete
+idea of what a programmable computer is all about.
+It's you telling the computer to do things it 
+can handle in terms of binary data.
 
 ## Variables & Data Types
 

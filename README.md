@@ -1,14 +1,19 @@
 # Core Concepts of Computer Programming 
 Of all the inventions in the field of electronics 
 like radio and telephone, the programmable computer was the 
-turning point of our modern world. If ever a certain device
+turning point for our modern world. It changed the
+world forever.
+
+If ever a certain device
 can be programmed the way we want it to behave, then 
 we can simply instruct it to do things for us.
+That's very practical, isn't it?
 
 After the programmable computers emerged, the next
 big question was how humans would program these computers.
-And the quest was on until 1970s when a very remarkble
-programming language was invented: the C language.
+They had been developing programming languages and 
+the 1970s was a very remarkable period: 
+the C language was invented.
 
 After the success, the great potential was unleashed
 and we are now seeing the things a programmable computer

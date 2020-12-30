@@ -36,6 +36,12 @@ directly and indirectly inherits concepts from
 the C language, we'll be using it to demonstrate
 the core concepts of programming.
 
+*Take note: we don't want to discuss every 
+detail of the code in terms of the C language, 
+rather we just want to get the core
+concepts of computer programming that are
+common in different programming languages.*
+
 ## Input / Output
 As was mentioned, a programmable computer is very 
 important but the way you interact with the computer

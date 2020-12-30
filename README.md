@@ -20,19 +20,19 @@ and we are now seeing the things a programmable computer
 can do: the era of information, real-time data, 
 almost realistic 3D games, artificial intelligence, etc.
 
-Learning computer science now is a very sophitiscated
+Learning computer science now is a very sophisticated
 one unlike it was in the past: there are too many 
 fields even in software development alone.
 
 And if you are a beginner, you might be discouraged
-of all the things you need to learn but don't worry:
+from all the things you need to learn but don't worry:
 **you don't need to learn them all**. What you need
-to learn first is the understanding how computer works
+to learn first is the understanding how computers work
 and the fundamentals of computer programming that
 all computer programming languages have in common.
 
 And since almost every programming language nowadays
-inherit directly and indirectly concepts from 
+directly and indirectly inherits concepts from 
 the C language, we'll be using it to demonstrate
 the core concepts of programming.
 

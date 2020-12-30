@@ -37,6 +37,36 @@ the C language, we'll be using it to demonstrate
 the core concepts of programming.
 
 ## Input / Output
+As was mentioned, a programmable computer is very 
+important but the way you interact with the computer
+is through input and output: you as the user
+will have an input, the computer will process it
+(the way it is processed is programmed also),
+then the computer will output something.
+The very first demonstration is the "Hello World"
+program. The programmer will tell the computer
+to simply display the message on the screen.
+
+But of course, complex programs are not straightforward
+as that. Typical programs like binary
+to human language takes a lot of processing,
+an operation system to recognize computer applications,
+a business collaborative tool with a lot of features
+to manage data, a 3D game that is almost realistic,
+an Artificial Intelligence that can simulate humans
+in the virtual world!
+
+But of all the things programmers can do, the 
+computer only process input as binary data
+(0s and 1s) and 
+it should not be interpreted literally. It's just
+a representation of something a computer 
+can recognize: high voltage and no voltage.
+Imagine any drawing can be accomplished just
+by simply using a dot and no dot pattern!
+It's the same thing for the computer.
+
+
 
 ## Variables & Data Types
 

@@ -53,7 +53,7 @@ The very first demonstration is the "Hello World"
 program. The programmer will tell the computer
 to simply display the message on the screen.
 
-But of course, complex programs are not straightforward
+But of course, complex programs are not as straightforward
 as that. Typical programs like binary
 to human language (and vice versa)
 takes a lot of processing,
@@ -64,7 +64,7 @@ an Artificial Intelligence that can simulate humans
 in the virtual world!
 
 But of all the things programmers can do, the 
-computer only process input as binary data
+computer only processes input as binary data
 (0s and 1s) and 
 it should not be interpreted literally. It's just
 a representation of something a computer 

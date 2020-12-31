@@ -68,8 +68,9 @@ computer only process input as binary data
 (0s and 1s) and 
 it should not be interpreted literally. It's just
 a representation of something a computer 
-can recognize: high voltage and no voltage.
-Imagine any drawing can be accomplished just
+can recognize: absence or presence of electric pulse.
+Compare this with any drawing 
+that can be accomplished just
 by simply using a dot-and-no-dot pattern!
 It's the same thing for the computer.
 

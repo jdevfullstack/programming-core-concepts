@@ -9,9 +9,9 @@ can be programmed the way we want it to behave, then
 we can simply instruct it to do things for us.
 That's very practical, isn't it?
 
-After the programmable computers emerged, the next
+After the programmable computers, the next
 big question was how humans would program these computers.
-They had been developing programming languages and 
+They began developing programming languages and 
 the 1970s was a very remarkable period: 
 the C language was invented.
 
@@ -55,7 +55,8 @@ to simply display the message on the screen.
 
 But of course, complex programs are not straightforward
 as that. Typical programs like binary
-to human language takes a lot of processing,
+to human language (and vice versa)
+takes a lot of processing,
 an operation system to recognize computer applications,
 a business collaborative tool with a lot of features
 to manage data, a 3D game that is almost realistic,

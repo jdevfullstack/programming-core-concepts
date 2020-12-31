@@ -165,6 +165,9 @@ to display these values.
 
 
 ## Operators
+In programming just like in mathematics, there are 
+operators and the most common are arithmetic, comparison
+and assignment operators.
 
 ## Conditionals
 

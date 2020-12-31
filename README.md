@@ -103,6 +103,62 @@ It's you telling the computer to do things it
 can handle in terms of binary data.
 
 ## Variables & Data Types
+In computer programming, a **variable** is just like
+a container to store digital data. A **data type**
+is the way you tell the computer how that data
+will be interpreted. Should the computer interpret
+that as letters? or numbers? or words? or simply
+a raw binary data? The computer does not know 
+that, you must tell it exactly.
+
+In computer programming, both these things
+will enable you to store data and tell 
+the computer what kind of data it is. When you
+store, you want to retrieve it later as per
+needed. Remember also, computer's memory 
+is different from storage. Think of it
+as the short-term memory and the storage
+(the hard disk) as the long-term memory.
+But during the runtime of a program you 
+are developing, you refer to memory as 
+`storage`. The computer's memory has the full
+access to the CPU while the disk does not have.
+In order to read contents from the hard disk,
+a request should be made. Hence, in programming
+you are using the memory first not the disk.
+There is the current development to combine
+the two but it is still on-going.
+
+Take note, the details of memory, hard disk
+and CPU are quite complex but the mentioned
+details above will serve as the starting point
+for full comprehension.
+
+### Sample Program for Variables and Data Types
+```
+#include <stdio.h>
+
+int main()
+{
+
+   int i =1;
+   
+   int j = 12;
+
+   char myletter[] = "myletter";
+   float x = 1.23;
+   double y = 45.6789;
+
+   printf("int i: %d\n", i);
+
+   printf("char myletter[]: %s\n", myletter);
+   
+   printf("float x: %f\n", x);
+   printf("double y: %f\n", y);
+   
+   return 0;
+}
+```
 
 ## Operators
 

@@ -141,24 +141,28 @@ for full comprehension.
 int main()
 {
 
-   int i =1;
-   
-   int j = 12;
-
+   int i = 1;
    char myletter[] = "myletter";
    float x = 1.23;
-   double y = 45.6789;
 
    printf("int i: %d\n", i);
-
-   printf("char myletter[]: %s\n", myletter);
-   
+   printf("char myletter[]: %s\n", myletter);   
    printf("float x: %f\n", x);
-   printf("double y: %f\n", y);
    
    return 0;
 }
 ```
+
+In this simple program, we declare and assign 3
+variables with different data types:
+1. variable `i` that contains 1 numeric value
+2. variable character `myletter[]`
+that contains letters `myletter`
+3. variable `x` that contains 1.23 value
+
+After that, the program is telling the computer
+to display these values.
+
 
 ## Operators
 

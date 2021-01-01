@@ -174,8 +174,8 @@ are arithmetic, comparison, and assignment operators.
 #include <stdio.h>
 int main()
 {
-    int a = 9;
-    int b = 4;
+    int a = 10;
+    int b = 5;
     int result;
     
     result = a + b;
@@ -218,14 +218,15 @@ int main()
 
     c = 10;      
     printf("c = %d\n", c);
-    c = 15;     // c is 10 
+    c = 15;
     printf("c = %d\n", c);
-    c = 3;     // c is 5
+    c = 3;
     printf("c = %d\n", c);
     
     return 0;
 }
 ```
+
 ## Conditionals
 
 ## Loops

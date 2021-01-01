@@ -166,9 +166,66 @@ to display these values.
 
 ## Operators
 In programming just like in mathematics, there are 
-operators and the most common are arithmetic, comparison
-and assignment operators.
+operators and the most common in computer programming
+are arithmetic, comparison, and assignment operators.
 
+### Arithmetic Operators Sample Program
+```
+#include <stdio.h>
+int main()
+{
+    int a = 9;
+    int b = 4;
+    int result;
+    
+    result = a + b;
+    printf("a+b = %d \n", result);
+    result = a - b;
+    printf("a-b = %d \n", result);
+    result = a * b;
+    printf("a*b = %d \n", result);
+    result = a / b;
+    printf("a/b = %d \n", result);
+    result = a % b;
+    printf("Remainder when a divided by b = %d \n", result);
+    
+    return 0;
+}
+```
+
+### Comparison Operators Sample Program
+```
+#include <stdio.h>
+int main()
+{
+    int a = 10, b = 10, c = 20;
+
+    printf("%d == %d is %d \n", a, b, a == b);
+    printf("%d == %d is %d \n", a, c, a == c);
+    printf("%d > %d is %d \n", a, b, a > b);
+
+    return 0;
+}
+```
+
+
+### Assignment Operators Sample Program
+```
+#include <stdio.h>
+int main()
+{
+    int c;
+
+    c = 10;      
+    printf("c = %d\n", c);
+    c = 15;     // c is 10 
+    printf("c = %d\n", c);
+    c = 3;     // c is 5
+    printf("c = %d\n", c);
+    
+    return 0;
+}
+```
 ## Conditionals
 
 ## Loops

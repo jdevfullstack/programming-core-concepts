@@ -243,7 +243,3 @@ like repeat until color red, repeat until the
 distance is less than 50mm.
 
 ## Functions
-
-## Structures
-
-

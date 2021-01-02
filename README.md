@@ -229,7 +229,9 @@ int main()
 
 ## Conditionals
 In a comprehensive program, the computer must decide
-based on the condition/s given. The most common is the
+based on the condition/s given. Of course, the computer
+cannot do that alone, you must instruct it exactly.
+The most common is the
 IF statement with the extended IF/ELSE.
 
 ## Loops

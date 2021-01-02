@@ -243,3 +243,7 @@ like repeat until color red, repeat until the
 distance is less than 50mm.
 
 ## Functions
+A function is a group of statements (commands)
+that together perform a task.
+There are built-in functions and functions that a 
+programmer will create according to his/her needs.

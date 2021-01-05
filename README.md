@@ -1,6 +1,6 @@
 # Core Concepts of Computer Programming 
 Of all the inventions in the field of electronics 
-like radio and telephone, the programmable computer was the 
+like the radio and telephone, the programmable computer was the 
 turning point for our modern world. It changed the
 world forever.
 

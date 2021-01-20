@@ -57,7 +57,7 @@ But of course, complex programs are not as straightforward
 as that. Typical programs like binary
 to human language (and vice versa)
 takes a lot of processing,
-an operation system to recognize computer applications,
+an operating system to recognize computer applications,
 a business collaborative tool with a lot of features
 to manage data, a 3D game that is almost realistic,
 an Artificial Intelligence that can simulate humans

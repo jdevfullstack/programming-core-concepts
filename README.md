@@ -237,11 +237,13 @@ IF statement with the extended IF/ELSE.
 ## Loops
 There are commands or portions of your program
 to be repeated several times. Loops are there to do
-that. Now, there are the simple loops and the
-conditional loops, much like a repeated IF statement.
+that. Now, there are simple loops and 
+loops based on a given condition,
+much like a repeated IF statement.
 Simple loops are like repeat 10 times or repeat
 forever. Conditional loops are loops with condition
-like repeat until color red, repeat until the 
+just like in robot programming:
+repeat until color red, repeat until the 
 distance is less than 50mm.
 
 ## Functions

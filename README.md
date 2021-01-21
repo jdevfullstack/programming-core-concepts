@@ -168,7 +168,7 @@ to display these values.
 ## Operators
 In programming just like in mathematics, there are 
 operators and the most common in computer programming
-are arithmetic, comparison, and assignment operators.
+are assignment, arithmetic and comparison operators.
 
 ### Assignment Operators Sample Program
 ```

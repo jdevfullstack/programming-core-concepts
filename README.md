@@ -170,6 +170,41 @@ In programming just like in mathematics, there are
 operators and the most common in computer programming
 are arithmetic, comparison, and assignment operators.
 
+### Assignment Operators Sample Program
+```
+#include <stdio.h>
+int main()
+{
+    int c;
+
+    c = 10;      
+    printf("c = %d\n", c);
+    c = 15;
+    printf("c = %d\n", c);
+    c = 3;
+    printf("c = %d\n", c);
+    
+    return 0;
+}
+```
+
+The most common assignment operator is
+`=` and it should not be confused with
+the double `==` comparison operator.
+
+This time, it is simply assigning a 
+value to a variable. The result is just
+like this:
+
+```
+c = 10
+c = 15
+c = 3
+```
+
+Variable `c` contains a value at a specific time.
+It was changed in the program for three times.
+
 ### Arithmetic Operators Sample Program
 ```
 #include <stdio.h>
@@ -232,25 +267,6 @@ The result is just like this:
 
 The result is either 0 or 1 and remember,
 0 is FALSE and 1 is TRUE.
-
-
-### Assignment Operators Sample Program
-```
-#include <stdio.h>
-int main()
-{
-    int c;
-
-    c = 10;      
-    printf("c = %d\n", c);
-    c = 15;
-    printf("c = %d\n", c);
-    c = 3;
-    printf("c = %d\n", c);
-    
-    return 0;
-}
-```
 
 ## Conditionals
 In a comprehensive program, the computer must decide

@@ -297,6 +297,27 @@ will be printed. If the expected value is
 not the same as  the value of the variable, 
 the statement will not be printed.
 
+Sometimes, just an IF will not be sufficient,
+particularly when you want to catch the FALSE result
+or create a nested IF-ELSE. So, you want to extend it
+and catch the FALSE result.
+
+```
+#include <stdio.h>
+int main()
+{
+  int i = 10;
+  
+  if ( i == 11 ) 
+  {
+    printf("Expected value is the same as variable i, so the result is TRUE. \n");
+  } else {
+    printf("Expected value is not the same as variable i, so the result is FALSE. \n");
+  }
+    return 0;
+}
+```
+
 ## Loops
 There are commands or portions of your program
 to be repeated several times. Loops are there to do

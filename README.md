@@ -318,6 +318,11 @@ int main()
 }
 ```
 
+Not only the statement in ELSE branch will be printed,
+you can do a lot of things just like correct an error,
+go to a certain part of a program, etc. That's the power
+of catching the FALSE result.
+
 ## Loops
 There are commands or portions of your program
 to be repeated several times. Loops are there to do

@@ -122,7 +122,8 @@ as the short-term memory and the storage
 But during the runtime of a program you 
 are developing, you refer to memory as 
 `storage`. The computer's memory has the full
-access to the CPU while the disk does not have.
+access to the CPU while the disk does not have
+that access.
 In order to read contents from the hard disk,
 a request should be made. Hence, in programming
 you are using the memory first not the disk.

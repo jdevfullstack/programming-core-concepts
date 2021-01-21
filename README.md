@@ -219,6 +219,19 @@ int main()
     return 0;
 }
 ```
+Since these are comparison operators, they are 
+comparing the left and right side values.
+
+The result is just like this:
+
+```
+10 == 10 is 1 
+10 == 20 is 0 
+10 > 10 is 0 
+```
+
+The result is either 0 or 1 and remember,
+0 is FALSE and 1 is TRUE.
 
 
 ### Assignment Operators Sample Program

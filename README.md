@@ -179,6 +179,8 @@ int main()
     int b = 5;
     int result;
     
+    printf("where a = %d & b = %d \n", a, b);
+    
     result = a + b;
     printf("a+b = %d \n", result);
     result = a - b;
@@ -187,11 +189,20 @@ int main()
     printf("a*b = %d \n", result);
     result = a / b;
     printf("a/b = %d \n", result);
-    result = a % b;
-    printf("Remainder when a divided by b = %d \n", result);
     
     return 0;
 }
+```
+Since these are arithmetic operators, they
+will do the basic arithmetic operations.
+The result is just like this:
+
+```
+where a = 10 & b = 5 
+a+b = 15 
+a-b = 5 
+a*b = 50 
+a/b = 2
 ```
 
 ### Comparison Operators Sample Program

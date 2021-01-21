@@ -275,6 +275,28 @@ cannot do that alone, you must instruct it exactly.
 The most common is the
 IF statement with the extended IF/ELSE.
 
+```
+#include <stdio.h>
+int main()
+{
+  int i = 10;
+  
+  if ( i == 10 ) printf("Expected value is the same as variable i, so the result is TRUE. \n");
+    
+    return 0;
+}
+```
+
+In a single IF statement, the programmer wants to test,
+expect or verify something, such as this program.
+The programmer is expecting that `i` variable 
+has the value 10, and variable `i` has the same 
+value, so the statement 
+`Expected value is the same as variable i, so the result is TRUE.`
+will be printed. If the expected value is 
+not the same as  the value of the variable, 
+the statement will not be printed.
+
 ## Loops
 There are commands or portions of your program
 to be repeated several times. Loops are there to do

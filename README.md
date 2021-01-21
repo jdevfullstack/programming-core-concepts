@@ -340,3 +340,42 @@ A function is a group of statements (commands)
 that together perform a task.
 There are built-in functions and functions that a 
 programmer will create according to his/her needs.
+
+### Sample Program Creating And Using Functions
+```
+#include <stdio.h>
+
+void myFunction()
+{ 
+   printf("Hello World.\n");
+   printf("Life is beatiful.\n");
+   printf("Cherish every single moment.\n");
+}
+
+int main()
+{
+
+  myFunction();
+   
+   return 0;
+}
+```
+
+The function `printFunctionTest()` is created by
+declaring `void` first. Other functions will return values
+but for the sake of simplicity we create a void `function`.
+A `void` function will simply execute the commands
+contained in it, nothing else.
+
+Then inside the main function, you simply invoke it
+by its name. And all the commands inside that function
+will be executed line by line.
+
+Why use functions? Imagine if there is none. Complex
+programs are usually composed of thousands of lines of code
+up to million, without any grouping, that will be
+very hard to handle.
+
+If a function is generic and can be used for other
+projects, you can simply separate it for distribution.
+So your code is now reusable for other projects too.

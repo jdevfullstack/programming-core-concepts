@@ -332,10 +332,49 @@ that. Now, there are simple loops and
 loops based on a given condition,
 much like a repeated IF statement.
 Simple loops are like repeat 10 times or repeat
-forever. Conditional loops are loops with condition
+forever. Conditional loops are loops with 
+specific conditions other than simple iteration
 just like in robot programming:
 repeat until color red, repeat until the 
 distance is less than 50mm.
+
+The most common that we see in computer
+programming: the `for` loop,
+`while` loop and `do-while` loop. 
+
+### Sample Program Using Loops
+```
+#include <stdio.h>
+
+int main()
+{
+   
+   int n = 10;
+
+   int i;
+   int x[n];
+   for ( i=0; i<n; i++ ) {
+      x[i] = i * 10;
+      printf("i: %d x[i]: %d\n", i, x[i]);
+   }
+  
+   int y = 0;
+   while ( y < 100 ) {
+      y += 12;
+      printf("y: %d\n", y);
+   }
+
+   y = 0;
+   do {
+      y += 12;
+      printf("y: %d\n", y);
+   }
+   while ( y < 100 );
+
+   return 0;
+
+}
+```
 
 ## Functions
 A function is a group of statements (commands)

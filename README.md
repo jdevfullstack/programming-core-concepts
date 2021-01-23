@@ -77,15 +77,14 @@ It's the same thing for the computer.
 ### Hello World Program
 
 ```
-#include <stdio.h> 
+#include <stdio.h>
 
-int main()
-{
+int main() {
 
-printf("Hello World!\n");
-printf("Life is a blessing!\n");
+    printf("Hello World!\n");
+    printf("Life is a blessing!\n");
 
-return 0;
+    return 0;
 
 }
 ```
@@ -139,18 +138,17 @@ for full comprehension.
 ```
 #include <stdio.h>
 
-int main()
-{
+int main() {
 
-   int i = 1;
-   char myletter[] = "myletter";
-   float x = 1.23;
+    int i = 1;
+    char myletter[] = "myletter";
+    float x = 1.23;
 
-   printf("int i: %d\n", i);
-   printf("char myletter[]: %s\n", myletter);   
-   printf("float x: %f\n", x);
-   
-   return 0;
+    printf("int i: %d\n", i);
+    printf("char myletter[]: %s\n", myletter);
+    printf("float x: %f\n", x);
+
+    return 0;
 }
 ```
 
@@ -173,17 +171,17 @@ are assignment, arithmetic and comparison operators.
 ### Assignment Operators Sample Program
 ```
 #include <stdio.h>
-int main()
-{
+
+int main() {
     int c;
 
-    c = 10;      
+    c = 10;
     printf("c = %d\n", c);
     c = 15;
     printf("c = %d\n", c);
     c = 3;
     printf("c = %d\n", c);
-    
+
     return 0;
 }
 ```
@@ -208,14 +206,14 @@ It was changed in the program for three times.
 ### Arithmetic Operators Sample Program
 ```
 #include <stdio.h>
-int main()
-{
+
+int main() {
     int a = 10;
     int b = 5;
     int result;
-    
+
     printf("where a = %d & b = %d \n", a, b);
-    
+
     result = a + b;
     printf("a+b = %d \n", result);
     result = a - b;
@@ -224,7 +222,7 @@ int main()
     printf("a*b = %d \n", result);
     result = a / b;
     printf("a/b = %d \n", result);
-    
+
     return 0;
 }
 ```
@@ -243,8 +241,8 @@ a/b = 2
 ### Comparison Operators Sample Program
 ```
 #include <stdio.h>
-int main()
-{
+
+int main() {
     int a = 10, b = 10, c = 20;
 
     printf("%d == %d is %d \n", a, b, a == b);
@@ -278,12 +276,12 @@ IF statement with the extended IF/ELSE.
 ### Sample Program Using IF
 ```
 #include <stdio.h>
-int main()
-{
-  int i = 10;
-  
-  if ( i == 10 ) printf("Expected value is the same as variable i, so the result is TRUE. \n");
-    
+
+int main() {
+    int i = 10;
+
+    if (i == 10) printf("Expected value is the same as variable i, so the result is TRUE. \n");
+
     return 0;
 }
 ```
@@ -306,16 +304,15 @@ and catch the FALSE result.
 ### Sample Program Using IF/ELSE
 ```
 #include <stdio.h>
-int main()
-{
-  int i = 10;
-  
-  if ( i == 11 ) 
-  {
-    printf("Expected value is the same as variable i, so the result is TRUE. \n");
-  } else {
-    printf("Expected value is not the same as variable i, so the result is FALSE. \n");
-  }
+
+int main() {
+    int i = 10;
+
+    if (i == 11) {
+        printf("Expected value is the same as variable i, so the result is TRUE. \n");
+    } else {
+        printf("Expected value is not the same as variable i, so the result is FALSE. \n");
+    }
     return 0;
 }
 ```
@@ -346,32 +343,38 @@ programming: the `for` loop,
 ```
 #include <stdio.h>
 
-int main()
-{
-   
-   int n = 10;
+int main() {
 
-   int i;
-   int x[n];
-   for ( i=0; i<n; i++ ) {
-      x[i] = i * 10;
-      printf("i: %d x[i]: %d\n", i, x[i]);
-   }
-  
-   int y = 0;
-   while ( y < 100 ) {
-      y += 12;
-      printf("y: %d\n", y);
-   }
+    int n = 11;
 
-   y = 0;
-   do {
-      y += 12;
-      printf("y: %d\n", y);
-   }
-   while ( y < 100 );
+    int i;
+    int x[n];
+    printf("the `for` loop: \n");
+    for (i = 1; i < n; i++) {
 
-   return 0;
+        printf("iteration: %d | Hello World. \n", i);
+    }
+
+    int y = 0;
+    printf("------ \n");
+    printf("the `while` loop: \n");
+    while (y < 10) {
+        y += 1;
+        printf("iterationn: %d | Hello World. \n", y);
+    }
+
+    y = 0;
+
+    printf("------ \n");
+    printf("the `do while` loop: \n");
+
+    do {
+        y += 1;
+        printf("iterationn: %d | Hello World. \n", y);
+    }
+    while (y < 10);
+
+    return 0;
 
 }
 ```
@@ -386,19 +389,17 @@ programmer will create according to his/her needs.
 ```
 #include <stdio.h>
 
-void myFunction()
-{ 
-   printf("Hello World.\n");
-   printf("Life is beatiful.\n");
-   printf("Cherish every single moment.\n");
+void myFunction() {
+    printf("Hello World.\n");
+    printf("Life is beatiful.\n");
+    printf("Cherish every single moment.\n");
 }
 
-int main()
-{
+int main() {
 
-  myFunction();
-   
-   return 0;
+    myFunction();
+
+    return 0;
 }
 ```
 

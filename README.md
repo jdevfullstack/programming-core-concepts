@@ -275,6 +275,7 @@ cannot do that alone, you must instruct it exactly.
 The most common is the
 IF statement with the extended IF/ELSE.
 
+### Sample Program Using IF
 ```
 #include <stdio.h>
 int main()
@@ -302,6 +303,7 @@ particularly when you want to catch the FALSE result
 or create a nested IF-ELSE. So, you want to extend it
 and catch the FALSE result.
 
+### Sample Program Using IF/ELSE
 ```
 #include <stdio.h>
 int main()

@@ -333,7 +333,7 @@ forever. Conditional loops are loops with
 specific conditions other than simple iteration
 just like in robot programming:
 repeat until color red, repeat until the 
-distance is less than 50mm.
+distance is less than 50mm, etc.
 
 The most common that we see in computer
 programming: the `for` loop,
@@ -378,6 +378,50 @@ int main() {
 
 }
 ```
+
+the result:
+```
+/tmp/phNY4lZU2A.o
+the `for` loop: 
+iteration: 1 | Hello World. 
+iteration: 2 | Hello World. 
+iteration: 3 | Hello World. 
+iteration: 4 | Hello World. 
+iteration: 5 | Hello World. 
+iteration: 6 | Hello World. 
+iteration: 7 | Hello World. 
+iteration: 8 | Hello World. 
+iteration: 9 | Hello World. 
+iteration: 10 | Hello World. 
+------ 
+the `while` loop: 
+iteration: 1 | Hello World. 
+iteration: 2 | Hello World. 
+iteration: 3 | Hello World. 
+iteration: 4 | Hello World. 
+iteration: 5 | Hello World. 
+iteration: 6 | Hello World. 
+iteration: 7 | Hello World. 
+iteration: 8 | Hello World. 
+iteration: 9 | Hello World. 
+iteration: 10 | Hello World. 
+------ 
+the `do while` loop: 
+iteration: 1 | Hello World. 
+iteration: 2 | Hello World. 
+iteration: 3 | Hello World. 
+iteration: 4 | Hello World. 
+iteration: 5 | Hello World. 
+iteration: 6 | Hello World. 
+iteration: 7 | Hello World. 
+iteration: 8 | Hello World. 
+iteration: 9 | Hello World. 
+iteration: 10 | Hello World.
+```
+
+As you can see here, it's just printing the 
+Hello World ten times, whether it's `for` loop,
+`while` loop or `do-while` loop.
 
 ## Functions
 A function is a group of statements (commands)

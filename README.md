@@ -60,7 +60,7 @@ takes a lot of processing,
 an operating system to recognize computer applications,
 a business collaborative tool with a lot of features
 to manage data, a 3D game that is almost realistic,
-an Artificial Intelligence that can simulate humans
+an Artificial Intelligence progrm that can simulate humans
 in the virtual world!
 
 But of all the things programmers can do, the 
@@ -420,4 +420,4 @@ very hard to handle.
 
 If a function is generic and can be used for other
 projects, you can simply separate it for distribution.
-So your code is now reusable for other projects too.
+So your code is now reusable.

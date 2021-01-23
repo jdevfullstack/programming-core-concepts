@@ -107,7 +107,7 @@ a container to store digital data. A **data type**
 is the way you tell the computer how that data
 will be interpreted. Should the computer interpret
 that as letters? or numbers? or words? or simply
-a raw binary data? The computer does not know 
+raw binary data? The computer does not know 
 that, you must tell it exactly.
 
 In computer programming, both these things
@@ -201,7 +201,7 @@ c = 3
 ```
 
 Variable `c` contains a value at a specific time.
-It was changed in the program for three times.
+It was changed in the program three times.
 
 ### Arithmetic Operators Sample Program
 ```
@@ -317,7 +317,7 @@ int main() {
 }
 ```
 
-Not only the statement in ELSE branch will be printed,
+Not only the statement in the ELSE branch will be printed,
 you can do a lot of things just like correct an error,
 go to a certain part of a program, etc. That's the power
 of catching the FALSE result.
@@ -360,7 +360,7 @@ int main() {
     printf("the `while` loop: \n");
     while (y < 10) {
         y += 1;
-        printf("iterationn: %d | Hello World. \n", y);
+        printf("iteration: %d | Hello World. \n", y);
     }
 
     y = 0;
@@ -370,7 +370,7 @@ int main() {
 
     do {
         y += 1;
-        printf("iterationn: %d | Hello World. \n", y);
+        printf("iteration: %d | Hello World. \n", y);
     }
     while (y < 10);
 

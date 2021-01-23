@@ -60,7 +60,7 @@ takes a lot of processing,
 an operating system to recognize computer applications,
 a business collaborative tool with a lot of features
 to manage data, a 3D game that is almost realistic,
-an Artificial Intelligence progrm that can simulate humans
+an Artificial Intelligence program that can simulate humans
 in the virtual world!
 
 But of all the things programmers can do, the 

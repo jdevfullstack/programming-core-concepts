@@ -191,8 +191,7 @@ The most common assignment operator is
 the double `==` comparison operator.
 
 This time, it is simply assigning a 
-value to a variable. The result is just
-like this:
+value to a variable. The result is:
 
 ```
 c = 10
@@ -228,7 +227,8 @@ int main() {
 ```
 Since these are arithmetic operators, they
 will do the basic arithmetic operations.
-The result is just like this:
+
+The result is:
 
 ```
 where a = 10 & b = 5 
@@ -255,7 +255,7 @@ int main() {
 Since these are comparison operators, they are 
 comparing the left and right side values.
 
-The result is just like this:
+The result is:
 
 ```
 10 == 10 is 1 

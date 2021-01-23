@@ -381,7 +381,6 @@ int main() {
 
 the result:
 ```
-/tmp/phNY4lZU2A.o
 the `for` loop: 
 iteration: 1 | Hello World. 
 iteration: 2 | Hello World. 

@@ -127,7 +127,7 @@ In order to read contents from the hard disk,
 a request should be made. Hence, in programming
 you are using the memory first not the disk.
 There is the current development to combine
-the two but it is still on-going.
+the two but is still on-going.
 
 Take note, the details of memory, hard disk
 and CPU are quite complex but the mentioned

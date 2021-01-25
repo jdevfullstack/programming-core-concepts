@@ -434,7 +434,7 @@ programmer will create according to his/her needs.
 
 void myFunction() {
     printf("Hello World.\n");
-    printf("Life is beatiful.\n");
+    printf("Life is beautiful.\n");
     printf("Cherish every single moment.\n");
 }
 

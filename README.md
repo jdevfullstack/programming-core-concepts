@@ -10,10 +10,10 @@ Table of Contents
     2. Arithmetic Operators Sample Program
     3. Comparison Operators Sample Program
 4. Conditionals
-    1.Samle Program Using IF
-    2. Sample ng IF/ELSE
+    1. Sample Program Using IF
+    2. Sample Program Using IF/ELSE
 5. Functions
-6. mple Program Creating And Using Functions
+6. Sample Program Creating And Using Functions
 
 Of all the inventions in the field of electronics 
 like the radio and telephone, the programmable computer 

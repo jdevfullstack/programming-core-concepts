@@ -1,8 +1,8 @@
 # Core Concepts of Computer Programming 
 
 Table of Contents
-1. Intro
-2. Input / Output
+1. [Intro](#intro)
+2. [Input / Output](#input-output)
     1. Hello World Program
 3. Variables & Data Types
     1. Sample Program for Variables and Data Types

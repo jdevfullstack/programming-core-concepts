@@ -1,4 +1,20 @@
 # Core Concepts of Computer Programming 
+
+Table of Contents
+1. Input / Output
+    1. Hello World Program
+2. Variables & Data Types
+    1. Sample Program for Variables and Data Types
+3. Operators
+    1. Assignment Operators Sample Program
+    2. Arithmetic Operators Sample Program
+    3. Comparison Operators Sample Program
+4. Conditionals
+    1.Samle Program Using IF
+    2. Sample ng IF/ELSE
+5. Functions
+6. mple Program Creating And Using Functions
+
 Of all the inventions in the field of electronics 
 like the radio and telephone, the programmable computer 
 was the most significant one. It changed the

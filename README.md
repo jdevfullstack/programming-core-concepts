@@ -1,5 +1,7 @@
 # Core Concepts of Computer Programming 
 
+***
+
 Table of Contents
 1. Input / Output
     1. Hello World Program
@@ -14,6 +16,8 @@ Table of Contents
     2. Sample Program Using IF/ELSE
 5. Functions
 6. Sample Program Creating And Using Functions
+
+***
 
 Of all the inventions in the field of electronics 
 like the radio and telephone, the programmable computer 

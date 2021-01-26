@@ -15,8 +15,7 @@ Table of Contents
 5. Functions
 6. Sample Program Creating And Using Functions
 
-***
-
+## Intro
 Of all the inventions in the field of electronics 
 like the radio and telephone, the programmable computer 
 was the most significant one. It changed the

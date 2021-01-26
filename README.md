@@ -1,4 +1,22 @@
 # Core Concepts of Computer Programming 
+
+Table of Contents
+1. [Intro](#intro)
+2. [Input / Output](#input-and-output)
+    1. [Hello World Program](#hello-world-program)
+3. [Variables & Data Types](#variables-and-data-types)
+    1. [Sample Program for Variables and Data Types](#sample-program-for-variables-and-data-types)
+4. [Operators](#operators)
+    1. [Assignment Operators Sample Program](#assignment-operators-sample-program)
+    2. [Arithmetic Operators Sample Program](#arithmetic-operators-sample-program)
+    3. [Comparison Operators Sample Program](#comparison-operators-sample-program)
+5. [Conditionals](#conditionals)
+    1. [Sample Program Using IF](#sample-program-using-if)
+    2. [Sample Program Using IF/ELSE](#sample-program-using-if-else)
+6. [Functions](#functions)
+    1. [Sample Program Creating And Using Functions](#sample-program-creating-and-using-functions)
+
+## Intro
 Of all the inventions in the field of electronics 
 like the radio and telephone, the programmable computer 
 was the most significant one. It changed the
@@ -42,7 +60,7 @@ rather we just want to get the core
 concepts of computer programming that are
 common in different programming languages.*
 
-## Input / Output
+## Input And Output
 As was mentioned, a programmable computer is very 
 important but the way you interact with the computer
 is through input and output: you as the user
@@ -101,7 +119,7 @@ idea of what a programmable computer is all about.
 It's you telling the computer to do things it 
 can handle in terms of binary data.
 
-## Variables & Data Types
+## Variables And Data Types
 In computer programming, a **variable** is just like
 a container to store digital data. A **data type**
 is the way you tell the computer how that data
@@ -301,7 +319,7 @@ particularly when you want to catch the FALSE result
 or create a nested IF-ELSE. So, you want to extend it
 and catch the FALSE result.
 
-### Sample Program Using IF/ELSE
+### Sample Program Using IF ELSE
 ```
 #include <stdio.h>
 

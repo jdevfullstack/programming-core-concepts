@@ -1,7 +1,5 @@
 # Core Concepts of Computer Programming 
 
-***
-
 Table of Contents
 1. Input / Output
     1. Hello World Program

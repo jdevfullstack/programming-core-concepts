@@ -1,6 +1,6 @@
 # Core Concepts of Computer Programming 
 
-Table of Contents
+Table Of Contents
 1. [Intro](#intro)
 2. [Input / Output](#input-and-output)
     1. [Hello World Program](#hello-world-program)

@@ -1,5 +1,7 @@
 # Core Concepts of Computer Programming 
 
+`updated 21 March 2022`
+
 TOC
 1. [Intro](#intro)
 2. [Input / Output](#input-and-output)

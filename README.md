@@ -1,6 +1,6 @@
 # Core Concepts of Computer Programming 
 
-`updated 21 March 2022`
+*`updated 21 March 2022`*
 
 TOC
 1. [Intro](#intro)

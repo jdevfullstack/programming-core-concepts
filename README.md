@@ -1,6 +1,6 @@
 # Core Concepts of Computer Programming 
 
-*`updated 21 April 2022`*
+*`updated 28 May 2023`*
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdevstatic%2Fprogramming-core-concepts&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -486,3 +486,21 @@ very hard to handle.
 If a function is generic and can be used for other
 projects, you can simply separate it for distribution.
 So your code is now reusable.
+
+## More Of My Topics
+
+#### <https://github.com/jdevstatic/basic-electronics>
+
+#### <https://github.com/jdevstatic/github-pages-tutorial>
+
+#### <https://github.com/jdevstatic/java>
+
+#### <https://github.com/jdevstatic/lightweight-web-server>
+
+#### <https://github.com/jdevstatic/java-coding-problems>
+
+#### <https://github.com/jdevstatic/PureBasic-FileExplorer>
+
+#### <https://github.com/jdevstatic/PureBasic-Scrabble>
+
+#### <https://github.com/jdevstatic/hacking-the-github-stats>

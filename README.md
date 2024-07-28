@@ -163,12 +163,12 @@ three variables with different data types:
 After that, the program instructs the computer to display these values.
 
 ## Operators
-In programming just like in mathematics, there are 
-operators and the most common in computer programming
-are assignment, arithmetic and comparison operators.
+In programming, just like in mathematics, there are operators. The most 
+common in computer programming are assignment, arithmetic, and 
+comparison operators.
 
 ### Assignment Operators Sample Program
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -185,12 +185,11 @@ int main() {
 }
 ```
 
-The most common assignment operator is
-`=` and it should not be confused with
-the double `==` comparison operator.
+The most common assignment operator is `=`. It should not be confused 
+with the double `==` comparison operator.
 
-This time, it is simply assigning a 
-value to a variable. The result is:
+In this example, the `=` operator is simply assigning a value to a 
+variable. The result is:
 
 ```
 c = 10
@@ -198,8 +197,8 @@ c = 15
 c = 3
 ```
 
-Variable `c` contains a value at a specific time.
-It was changed in the program three times.
+Variable `c` contains a value at a specific time. It was changed in the 
+program three times.
 
 ### Arithmetic Operators Sample Program
 ```

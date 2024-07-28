@@ -90,7 +90,7 @@ It's the same thing for the computer.
 
 ### Hello World Program
 
-```
+```c
 #include <stdio.h>
 
 int main() {

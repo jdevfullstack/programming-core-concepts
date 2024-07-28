@@ -67,10 +67,10 @@ common in different programming languages.*
 
 ## Input And Output
 As was mentioned, a programmable computer is very 
-important but the way you interact with the computer
-is through input and output: you as the user
-will have an input, the computer will process it
-(the way it is processed is programmed also),
+important, but the way you interact with the computer
+is through input and output: you, as the user,
+will provide input, the computer will process it
+(the way it is processed is also programmed),
 then the computer will output something.
 The very first demonstration is the "Hello World"
 program. The programmer will tell the computer
@@ -81,17 +81,16 @@ as that. Typical programs like binary
 to human language (and vice versa)
 takes a lot of processing,
 an operating system to recognize computer applications,
-a business collaborative tool with a lot of features
+a business collaborative tool with many features
 to manage data, a 3D game that is almost realistic,
 an Artificial Intelligence program that can simulate humans
 in the virtual world!
 
 But of all the things programmers can do, the 
 computer only processes input as binary data
-(0s and 1s) and 
-it should not be interpreted literally. It's just
-a representation of something a computer 
-can recognize: absence or presence of electric pulse.
+(0s and 1s), and it should not be interpreted literally.
+It's just a representation of something a computer 
+can recognize: the absence or presence of an electric pulse.
 Compare this with any drawing 
 that can be accomplished just
 by simply using a dot-and-no-dot pattern!

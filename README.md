@@ -201,7 +201,7 @@ Variable `c` contains a value at a specific time. It was changed in the
 program three times.
 
 ### Arithmetic Operators Sample Program
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -209,31 +209,31 @@ int main() {
     int b = 5;
     int result;
 
-    printf("where a = %d & b = %d \n", a, b);
+    printf("where a = %d & b = %d\n", a, b);
 
     result = a + b;
-    printf("a+b = %d \n", result);
+    printf("a + b = %d\n", result);
     result = a - b;
-    printf("a-b = %d \n", result);
+    printf("a - b = %d\n", result);
     result = a * b;
-    printf("a*b = %d \n", result);
+    printf("a * b = %d\n", result);
     result = a / b;
-    printf("a/b = %d \n", result);
+    printf("a / b = %d\n", result);
 
     return 0;
 }
 ```
-Since these are arithmetic operators, they
-will do the basic arithmetic operations.
+
+Since these are arithmetic operators, they will perform basic arithmetic operations.
 
 The result is:
 
 ```
-where a = 10 & b = 5 
-a+b = 15 
-a-b = 5 
-a*b = 50 
-a/b = 2
+where a = 10 & b = 5
+a + b = 15
+a - b = 5
+a * b = 50
+a / b = 2
 ```
 
 ### Comparison Operators Sample Program

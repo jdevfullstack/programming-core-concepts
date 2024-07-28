@@ -137,7 +137,7 @@ but the mentioned details above will serve as the starting point for
 full comprehension.
 
 ### Sample Program for Variables and Data Types
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -154,16 +154,13 @@ int main() {
 }
 ```
 
-In this simple program, we declare and assign 3
-variables with different data types:
-1. variable `i` that contains 1 numeric value
-2. variable character `myletter[]`
-that contains letters `myletter`
-3. variable `x` that contains 1.23 value
+In this simple program, we declare and assign 
+three variables with different data types:
+1. an integer variable `i` that contains the numeric value `1`
+2. a character array `myletter[]` that contains the string `"myletter"`
+3. a float variable `x` that contains the value `1.23`
 
-After that, the program is telling the computer
-to display these values.
-
+After that, the program instructs the computer to display these values.
 
 ## Operators
 In programming just like in mathematics, there are 

@@ -111,50 +111,38 @@ int main() {
 }
 ```
 
-In this small program, the `#include`
-tells the computer to include a certain
-source which is needed because
-it contains the predefined command `printf`.
-`printf` simply tells the computer
-to display the text provided by the programmer.
+In this small program, the `#include` tells the computer to include a 
+certain source which is needed because it contains the predefined 
+command `printf`. `printf` simply tells the computer to display the 
+text provided by the programmer.
 
-As simple as that, you have now the complete
-idea of what a programmable computer is all about.
-It's you telling the computer to do things it 
-can handle in terms of binary data.
+As simple as that, you now have the complete idea of what a 
+programmable computer is all about. It's you telling the computer to 
+do things it can handle in terms of binary data.
 
 ## Variables And Data Types
-In computer programming, a **variable** is just like
-a container to store digital data. A **data type**
-is the way you tell the computer how that data
-will be interpreted. Should the computer interpret
-that as letters? or numbers? or words? or simply
-raw binary data? The computer does not know 
-that, you must tell it exactly.
 
-In computer programming, both these things
-will enable you to store data and tell 
-the computer what kind of data it is. When you
-store, you want to retrieve it later as per
-needed. Remember also, computer's memory 
-is different from storage. Think of it
-as the short-term memory and the storage
-(the hard disk) as the long-term memory.
-But during the runtime of a program you 
-are developing, you refer to memory as 
-`storage`. The computer's memory has the full
-access to the CPU while the disk does not have
-that access.
-In order to read contents from the hard disk,
-a request should be made. Hence, in programming
-you are using the memory first not the disk.
-There is the current development to combine
-the two but is still on-going.
+In computer programming, a **variable** is just like a container to 
+store digital data. A **data type** is the way you tell the computer 
+how that data will be interpreted. Should the computer interpret that 
+as letters? or numbers? or words? or simply raw binary data? The 
+computer does not know that, you must tell it exactly.
 
-Take note, the details of memory, hard disk
-and CPU are quite complex but the mentioned
-details above will serve as the starting point
-for full comprehension.
+In computer programming, both these things will enable you to store 
+data and tell the computer what kind of data it is. When you store, 
+you want to retrieve it later as needed. Remember also, computer's 
+memory is different from storage. Think of it as the short-term memory 
+and the storage (the hard disk) as the long-term memory. But during 
+the runtime of a program you are developing, you refer to memory as 
+`storage`. The computer's memory has full access to the CPU while the 
+disk does not have that access. In order to read contents from the 
+hard disk, a request should be made. Hence, in programming, you are 
+using the memory first, not the disk. There is current development to 
+combine the two, but it is still ongoing.
+
+Take note, the details of memory, hard disk, and CPU are quite complex, 
+but the mentioned details above will serve as the starting point for 
+full comprehension.
 
 ### Sample Program for Variables and Data Types
 ```

@@ -21,49 +21,42 @@ TOC
     1. [Sample Program Creating And Using Functions](#sample-program-creating-and-using-functions)
 
 ## Intro
-Of all the inventions in the field of electronics 
-like the radio and telephone, the programmable computer 
-was the most significant one. It changed the
-world forever.
+Of all the inventions in the field of electronics like the radio and 
+telephone, the programmable computer was the most significant one. It 
+changed the world forever.
 
-If ever a certain device
-can be programmed the way we want it to behave, then 
-we can simply instruct it to do things for us.
-That's very practical, isn't it?
+If ever a certain device can be programmed the way we want it to 
+behave, then we can simply instruct it to do things for us. That's very 
+practical, isn't it?
 
-After programmable computers, the next
-big question was how humans would program these computers.
-They began developing programming languages and 
-the 1970s was a very remarkable period: 
-the C language was invented.
+After programmable computers, the next big question was how humans 
+would program these computers. They began developing programming 
+languages and the 1970s was a very remarkable period: the C language 
+was invented.
 
-After this success, the great potential was unleashed
-and we are now seeing the things a programmable computer
-can do: the era of information, real-time data, 
-almost realistic 3D games, artificial intelligence, etc.
+After this success, the great potential was unleashed and we are now 
+seeing the things a programmable computer can do: the era of 
+information, real-time data, almost realistic 3D games, artificial 
+intelligence, etc.
 
-Learning computer science today involves 
-many specialized fields, unlike in the past:
-there are too many 
-fields even in software development alone.
+Learning computer science today involves many specialized fields, 
+unlike in the past: there are too many fields even in software 
+development alone.
 
-And if you are a beginner, you might be discouraged
-from all the things you need to learn but don't worry:
-**you don't need to learn them all**. What you need
-to learn first is the understanding how computers work
-and the fundamentals of computer programming that
-all computer programming languages have in common.
+And if you are a beginner, you might be discouraged from all the things 
+you need to learn but don't worry: **you don't need to learn them all**. 
+What you need to learn first is understanding how computers work and 
+the fundamentals of computer programming that all computer programming 
+languages have in common.
 
-And since almost every programming language nowadays
-directly and indirectly inherits concepts from 
-the C language, we'll be using it to demonstrate
-the core concepts of programming.
+And since almost every programming language nowadays directly and 
+indirectly inherits concepts from the C language, we'll be using it to 
+demonstrate the core concepts of programming.
 
-*Take note: we don't want to discuss every 
-detail of the code in terms of the C language, 
-rather we just want to get the core
-concepts of computer programming that are
-common in different programming languages.*
+*Take note: we don't want to discuss every detail of the code in terms 
+of the C language, rather we just want to get the core concepts of 
+computer programming that are common in different programming 
+languages.*
 
 ## Input And Output
 As was mentioned, a programmable computer is very 

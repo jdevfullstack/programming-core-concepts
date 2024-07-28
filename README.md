@@ -17,8 +17,11 @@ TOC
 5. [Conditionals](#conditionals)
     1. [Sample Program Using IF](#sample-program-using-if)
     2. [Sample Program Using IF/ELSE](#sample-program-using-if-else)
-6. [Functions](#functions)
+6. [Loops](#loops)
+    1. [Sample Program Using Loops](#sample-program-using-loops)
+7. [Functions](#functions)
     1. [Sample Program Creating And Using Functions](#sample-program-creating-and-using-functions)
+8. [More Of My Content](#more-of-my-content)
 
 ## Intro
 Of all the inventions in the field of electronics like the radio and 

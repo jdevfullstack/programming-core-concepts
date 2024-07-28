@@ -316,104 +316,92 @@ perform various actions such as correcting an error, navigating to a certain
 part of a program, etc. That's the power of catching the FALSE result.
 
 ## Loops
-There are commands or portions of your program
-to be repeated several times. Loops are there to do
-that. Now, there are simple loops and 
-loops based on a given condition,
-much like a repeated IF statement.
-Simple loops are like repeat 10 times or repeat
-forever. Conditional loops are loops with 
-specific conditions other than simple iteration
-just like in robot programming:
-repeat until color red, repeat until the 
-distance is less than 50mm, etc.
+There are commands or portions of your program to be repeated several times. 
+Loops are there to do that. Now, there are simple loops and loops based on a 
+given condition, much like a repeated IF statement. Simple loops are like 
+"repeat 10 times" or "repeat forever." Conditional loops are loops with 
+specific conditions other than simple iteration, just like in robot 
+programming: "repeat until color red," "repeat until the distance is less than 
+50mm," etc.
 
-The most common that we see in computer
-programming: the `for` loop,
-`while` loop and `do-while` loop. 
+The most common loops that we see in computer programming are the `for` loop, 
+`while` loop, and `do-while` loop.
 
 ### Sample Program Using Loops
-```
+```c
 #include <stdio.h>
 
 int main() {
-
     int n = 11;
-
     int i;
     int x[n];
-    printf("the `for` loop: \n");
-    for (i = 1; i < n; i++) {
 
-        printf("iteration: %d | Hello World. \n", i);
+    printf("The `for` loop:\n");
+    for (i = 1; i < n; i++) {
+        printf("Iteration: %d | Hello World.\n", i);
     }
 
     int y = 0;
-    printf("------ \n");
-    printf("the `while` loop: \n");
+    printf("------\n");
+    printf("The `while` loop:\n");
     while (y < 10) {
         y += 1;
-        printf("iteration: %d | Hello World. \n", y);
+        printf("Iteration: %d | Hello World.\n", y);
     }
 
     y = 0;
-
-    printf("------ \n");
-    printf("the `do while` loop: \n");
-
+    printf("------\n");
+    printf("The `do-while` loop:\n");
     do {
         y += 1;
-        printf("iteration: %d | Hello World. \n", y);
-    }
-    while (y < 10);
+        printf("Iteration: %d | Hello World.\n", y);
+    } while (y < 10);
 
     return 0;
-
 }
 ```
 
-the result:
+The result:
 ```
-the `for` loop: 
-iteration: 1 | Hello World. 
-iteration: 2 | Hello World. 
-iteration: 3 | Hello World. 
-iteration: 4 | Hello World. 
-iteration: 5 | Hello World. 
-iteration: 6 | Hello World. 
-iteration: 7 | Hello World. 
-iteration: 8 | Hello World. 
-iteration: 9 | Hello World. 
-iteration: 10 | Hello World. 
------- 
-the `while` loop: 
-iteration: 1 | Hello World. 
-iteration: 2 | Hello World. 
-iteration: 3 | Hello World. 
-iteration: 4 | Hello World. 
-iteration: 5 | Hello World. 
-iteration: 6 | Hello World. 
-iteration: 7 | Hello World. 
-iteration: 8 | Hello World. 
-iteration: 9 | Hello World. 
-iteration: 10 | Hello World. 
------- 
-the `do while` loop: 
-iteration: 1 | Hello World. 
-iteration: 2 | Hello World. 
-iteration: 3 | Hello World. 
-iteration: 4 | Hello World. 
-iteration: 5 | Hello World. 
-iteration: 6 | Hello World. 
-iteration: 7 | Hello World. 
-iteration: 8 | Hello World. 
-iteration: 9 | Hello World. 
-iteration: 10 | Hello World.
+The `for` loop:
+Iteration: 1 | Hello World.
+Iteration: 2 | Hello World.
+Iteration: 3 | Hello World.
+Iteration: 4 | Hello World.
+Iteration: 5 | Hello World.
+Iteration: 6 | Hello World.
+Iteration: 7 | Hello World.
+Iteration: 8 | Hello World.
+Iteration: 9 | Hello World.
+Iteration: 10 | Hello World.
+------
+The `while` loop:
+Iteration: 1 | Hello World.
+Iteration: 2 | Hello World.
+Iteration: 3 | Hello World.
+Iteration: 4 | Hello World.
+Iteration: 5 | Hello World.
+Iteration: 6 | Hello World.
+Iteration: 7 | Hello World.
+Iteration: 8 | Hello World.
+Iteration: 9 | Hello World.
+Iteration: 10 | Hello World.
+------
+The `do-while` loop:
+Iteration: 1 | Hello World.
+Iteration: 2 | Hello World.
+Iteration: 3 | Hello World.
+Iteration: 4 | Hello World.
+Iteration: 5 | Hello World.
+Iteration: 6 | Hello World.
+Iteration: 7 | Hello World.
+Iteration: 8 | Hello World.
+Iteration: 9 | Hello World.
+Iteration: 10 | Hello World.
 ```
 
-As you can see here, it's just printing the 
-Hello World ten times, whether it's `for` loop,
-`while` loop or `do-while` loop.
+As you can see here, it's just printing "Hello World" ten times, whether it's 
+a `for` loop, `while` loop, or `do-while` loop.
 
 ## Functions
 A function is a group of statements (commands)

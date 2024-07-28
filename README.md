@@ -263,60 +263,57 @@ The result is:
 The result is either 0 or 1. Remember, 0 is FALSE and 1 is TRUE.
 
 ## Conditionals
-In a comprehensive program, the computer must decide
-based on the condition/s given. Of course, the computer
-cannot do that alone, you must instruct it exactly.
-The most common is the
-IF statement with the extended IF/ELSE.
+In a comprehensive program, the computer must make decisions based on given 
+conditions. Of course, the computer cannot do this alone; you must instruct it 
+exactly. The most common conditional statement is the `IF` statement, often 
+extended with `IF/ELSE`.
 
 ### Sample Program Using IF
-```
+```c
 #include <stdio.h>
 
 int main() {
     int i = 10;
 
-    if (i == 10) printf("Expected value is the same as variable i, so the result is TRUE. \n");
+    if (i == 10) {
+        printf("Expected value is the same as variable i, so the result is TRUE.\n");
+    }
 
     return 0;
 }
 ```
 
-In a single IF statement, the programmer wants to test,
-expect or verify something, such as this program.
-The programmer is expecting that `i` variable 
-has the value 10, and variable `i` has the same 
-value, so the statement 
-`Expected value is the same as variable i, so the result is TRUE.`
-will be printed. If the expected value is 
-not the same as  the value of the variable, 
+In a single `IF` statement, the programmer wants to test, expect, or verify 
+something. In this program, the programmer expects that the variable `i` has 
+the value 10. Since variable `i` does have the value 10, the statement 
+`Expected value is the same as variable i, so the result is TRUE.` will be 
+printed. If the expected value is not the same as the value of the variable, 
 the statement will not be printed.
 
-Sometimes, just an IF will not be sufficient,
-particularly when you want to catch the FALSE result
-or create a nested IF-ELSE. So, you want to extend it
-and catch the FALSE result.
+Sometimes, just an `IF` statement is not sufficient, particularly when you want 
+to handle the FALSE result or create a nested `IF-ELSE`. In such cases, you 
+extend it to catch the FALSE result.
 
 ### Sample Program Using IF ELSE
-```
+```c
 #include <stdio.h>
 
 int main() {
     int i = 10;
 
     if (i == 11) {
-        printf("Expected value is the same as variable i, so the result is TRUE. \n");
+        printf("Expected value is the same as variable i, so the result is TRUE.\n");
     } else {
-        printf("Expected value is not the same as variable i, so the result is FALSE. \n");
+        printf("Expected value is not the same as variable i, so the result is FALSE.\n");
     }
+
     return 0;
 }
 ```
 
-Not only the statement in the ELSE branch will be printed,
-you can do a lot of things just like correct an error,
-go to a certain part of a program, etc. That's the power
-of catching the FALSE result.
+Not only can the statement in the `ELSE` branch be printed, but you can also 
+perform various actions such as correcting an error, navigating to a certain 
+part of a program, etc. That's the power of catching the FALSE result.
 
 ## Loops
 There are commands or portions of your program

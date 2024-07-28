@@ -467,20 +467,8 @@ If a function is generic and can be used for other
 projects, you can simply separate it for distribution.
 So your code is now reusable.
 
-## More Of My Topics
-
-#### <https://github.com/jdevstatic/basic-electronics>
-
-#### <https://github.com/jdevstatic/github-pages-tutorial>
-
-#### <https://github.com/jdevstatic/java>
-
-#### <https://github.com/jdevstatic/lightweight-web-server>
-
-#### <https://github.com/jdevstatic/java-coding-problems>
-
-#### <https://github.com/jdevstatic/PureBasic-FileExplorer>
-
-#### <https://github.com/jdevstatic/PureBasic-Scrabble>
-
-#### <https://github.com/jdevstatic/hacking-the-github-stats>
+## More Of My Content
+- [jdevfullstack Profile](https://github.com/jdevfullstack)
+- [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
+- [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
+- [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)

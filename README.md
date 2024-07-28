@@ -237,32 +237,30 @@ a / b = 2
 ```
 
 ### Comparison Operators Sample Program
-```
+```c
 #include <stdio.h>
 
 int main() {
     int a = 10, b = 10, c = 20;
 
-    printf("%d == %d is %d \n", a, b, a == b);
-    printf("%d == %d is %d \n", a, c, a == c);
-    printf("%d > %d is %d \n", a, b, a > b);
+    printf("%d == %d is %d\n", a, b, a == b);
+    printf("%d == %d is %d\n", a, c, a == c);
+    printf("%d > %d is %d\n", a, b, a > b);
 
     return 0;
 }
 ```
-Since these are comparison operators, they are 
-comparing the left and right side values.
+Since these are comparison operators, they compare the left and right side values.
 
 The result is:
 
 ```
-10 == 10 is 1 
-10 == 20 is 0 
-10 > 10 is 0 
+10 == 10 is 1
+10 == 20 is 0
+10 > 10 is 0
 ```
 
-The result is either 0 or 1 and remember,
-0 is FALSE and 1 is TRUE.
+The result is either 0 or 1. Remember, 0 is FALSE and 1 is TRUE.
 
 ## Conditionals
 In a comprehensive program, the computer must decide

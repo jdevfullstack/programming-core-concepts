@@ -31,19 +31,20 @@ can be programmed the way we want it to behave, then
 we can simply instruct it to do things for us.
 That's very practical, isn't it?
 
-After the programmable computers, the next
+After programmable computers, the next
 big question was how humans would program these computers.
 They began developing programming languages and 
 the 1970s was a very remarkable period: 
 the C language was invented.
 
-After the success, the great potential was unleashed
+After this success, the great potential was unleashed
 and we are now seeing the things a programmable computer
 can do: the era of information, real-time data, 
 almost realistic 3D games, artificial intelligence, etc.
 
-Learning computer science now is a very sophisticated
-one unlike it was in the past: there are too many 
+Learning computer science today involves 
+many specialized fields, unlike in the past:
+there are too many 
 fields even in software development alone.
 
 And if you are a beginner, you might be discouraged

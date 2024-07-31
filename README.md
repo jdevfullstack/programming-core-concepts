@@ -1,6 +1,6 @@
 # Core Concepts of Computer Programming 
 
-*`updated July 30, 2024`*
+*`updated July 31, 2024`*
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdevstatic%2Fprogramming-core-concepts&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -41,9 +41,8 @@ seeing what a programmable computer can do: the era of information,
 real-time data, almost realistic 3D games, artificial intelligence, 
 etc.
 
-Learning computer science today involves many specialized fields, 
-unlike in the past: there are many fields even in software development 
-alone.
+Learning computer science today, unlike in the past, involves many 
+specialized fields, even in software development alone.
 
 And if you are a beginner, you might be discouraged from all the things 
 you need to learn but don't worry: **you don't need to learn them all**. 
